@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">NoteCation</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="button">What NoteCations are near me?</string>
+
+    <string name="DistanceDrag">Select range</string>
+
     <string name="action_settings">Settings</string>
+
+    <string name="Map">ThisIsWhereTheMapWillBe</string>
+
+    <string name="TheMan">Mark if Stephen is the man</string>
+    <string name="title_activity_map_activity">map_activity</string>
+
+    <string name="hello_world">Hello world!</string>
 </resources>
